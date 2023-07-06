@@ -1,0 +1,21 @@
+Order number 403
+Customer: Nyasha Taranhike
+Email: Nyashadfga@sdga.com
+Phone number: 023481242
+Location: Johannesburg
+
+You have ordered the following from Steers in Johannesburg: 
+
+3 x Cheese Burger (R50.00)
+3 x Black Label (R35.00)
+
+Special instructions: Extra Thick
+
+Total: R255.00
+
+Spike Fenton is nearest to the restaurant and so he will be delivering your order to you at: 
+
+12 Kim street
+Bloomberg
+
+If you need to contact the restaurant, their number is 011 145 9098
