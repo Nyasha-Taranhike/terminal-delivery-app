@@ -11,7 +11,7 @@ public class Restaurant {
 
 	String restaurantName;
 	String resLocation;
-	String resPhone; // No need for integer
+	String resPhone;
 	int total = 0;
 	int mealPrice = 0;
 

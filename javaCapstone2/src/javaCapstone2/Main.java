@@ -166,9 +166,11 @@ public class Main {
 				driverValue[0] = driver[0];
 				driverValue[1] = driver[2];
 
-				String driverName = driver[0]; // Key for each driver
+				// Key for each driver
+				String driverName = driver[0];
 
-				int load = Integer.parseInt(driver[2]); // Value of each individual Driver
+				// Value of each individual Driver
+				int load = Integer.parseInt(driver[2]);
 
 				drivers.put(driverName, load);
 				driverInfo.add(driver);
