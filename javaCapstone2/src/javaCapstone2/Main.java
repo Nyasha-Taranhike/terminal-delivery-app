@@ -22,7 +22,7 @@ public class Main {
 	static String phoneEntered = null;
 	static String specialInfo = null;
 
-	static String chosenRestarauntName = null;
+	static String chosenRestaurantName = null;
 	static String existingRestarauntName = null;
 	static String restaurantCity = null;
 
@@ -210,7 +210,7 @@ public class Main {
 
 			// Meals
 			System.out.println("What Resteraunt would you like to order from: ");
-			chosenRestarauntName = scanner.nextLine();
+			chosenRestaurantName = scanner.nextLine();
 
 			takeOrders(scanner);
 
@@ -235,7 +235,7 @@ public class Main {
 			invoiceWriter.write("Phone number: " + phoneEntered + "\n");
 			invoiceWriter.write("Location: " + cityEntered + "\n\n");
 
-			invoiceWriter.write("You have ordered the following from " + chosenRestarauntName + " in "
+			invoiceWriter.write("You have ordered the following from " + chosenRestaurantName + " in "
 					+ restaurantCity + ": " + "\n\n");
 
 			mealsAndQuantities.forEach((key, value) -> {
